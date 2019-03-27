@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UGNRe.pas"/>
+    <File Path="UGNRe.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

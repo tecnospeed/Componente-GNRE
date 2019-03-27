@@ -1,0 +1,44 @@
+Line 17: Class RichTextLib.RichTextBox of control mmRet was not a loaded control class.
+Line 40: Class RichTextLib.RichTextBox of control mmTX2 was not a loaded control class.
+Line 63: Class RichTextLib.RichTextBox of control mmXML was not a loaded control class.
+Line 174: Class MSComctlLib.TabStrip of control tsRetorno was not a loaded control class.
+Line 200: Class MSComctlLib.TabStrip of control tsXMLDestinatario was not a loaded control class.
+Line 226: Class MSComctlLib.TabStrip of control tsImpressao was not a loaded control class.
+Line 252: Class MSComctlLib.TabStrip of control tsTX2Comp was not a loaded control class.
+Line 278: Class MSComctlLib.TabStrip of control tsMetodos was not a loaded control class.
+Line 23: The property name _ExtentX in mmRet is invalid.
+Line 24: The property name _ExtentY in mmRet is invalid.
+Line 25: The property name _Version in mmRet is invalid.
+Line 27: The property name ScrollBars in mmRet is invalid.
+Line 29: The property name TextRTF in mmRet is invalid.
+Line 46: The property name _ExtentX in mmTX2 is invalid.
+Line 47: The property name _ExtentY in mmTX2 is invalid.
+Line 48: The property name _Version in mmTX2 is invalid.
+Line 50: The property name ScrollBars in mmTX2 is invalid.
+Line 52: The property name TextRTF in mmTX2 is invalid.
+Line 69: The property name _ExtentX in mmXML is invalid.
+Line 70: The property name _ExtentY in mmXML is invalid.
+Line 71: The property name _Version in mmXML is invalid.
+Line 72: The property name ScrollBars in mmXML is invalid.
+Line 74: The property name TextRTF in mmXML is invalid.
+Line 180: The property name _ExtentX in tsRetorno is invalid.
+Line 181: The property name _ExtentY in tsRetorno is invalid.
+Line 182: The property name _Version in tsRetorno is invalid.
+Line 189: The property name Tabs in tsRetorno is invalid.
+Line 206: The property name _ExtentX in tsXMLDestinatario is invalid.
+Line 207: The property name _ExtentY in tsXMLDestinatario is invalid.
+Line 208: The property name _Version in tsXMLDestinatario is invalid.
+Line 215: The property name Tabs in tsXMLDestinatario is invalid.
+Line 232: The property name _ExtentX in tsImpressao is invalid.
+Line 233: The property name _ExtentY in tsImpressao is invalid.
+Line 234: The property name _Version in tsImpressao is invalid.
+Line 241: The property name Tabs in tsImpressao is invalid.
+Line 258: The property name _ExtentX in tsTX2Comp is invalid.
+Line 259: The property name _ExtentY in tsTX2Comp is invalid.
+Line 260: The property name _Version in tsTX2Comp is invalid.
+Line 267: The property name Tabs in tsTX2Comp is invalid.
+Line 284: The property name _ExtentX in tsMetodos is invalid.
+Line 285: The property name _ExtentY in tsMetodos is invalid.
+Line 286: The property name MultiRow in tsMetodos is invalid.
+Line 287: The property name _Version in tsMetodos is invalid.
+Line 294: The property name Tabs in tsMetodos is invalid.
