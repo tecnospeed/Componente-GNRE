@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="3.10" xmlns="http://www.portalfiscal.inf.br/nfe">
+	<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+		<infNFe Id="NFe41160208187168000160557005135859701000000018" versao="3.10">
+			<ide>
+				<cUF>41</cUF>
+				<cNF>00000001</cNF>
+				<natOp>VENDA DE MERCADORIA ADQ. DE TERCEIRO - PF E PJ NAO CONTRIBUI</natOp>
+				<indPag>1</indPag>
+				<mod>55</mod>
+				<serie>700</serie>
+				<nNF>513585970</nNF>
+				<dhEmi>2016-02-02T14:42:00-02:00</dhEmi>
+				<tpNF>1</tpNF>
+				<idDest>2</idDest>
+				<cMunFG>4115200</cMunFG>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>8</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>5</verProc>
+			</ide>
+			<emit>
+				<CNPJ>08187168000160</CNPJ>
+				<xNome>TECNOSPEED</xNome>
+				<xFant>TECNOSPEED</xFant>
+				<enderEmit>
+					<xLgr>RUA DO POVO</xLgr>
+					<nro>711</nro>
+					<xBairro>jardim teste</xBairro>
+					<cMun>4115200</cMun>
+					<xMun>MARINGA</xMun>
+					<UF>PR</UF>
+					<CEP>79415000</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>4432222222</fone>
+				</enderEmit>
+				<IE>9044016688</IE>
+				<CRT>3</CRT>
+			</emit>
+			<dest>
+				<CPF>81250814294</CPF>
+				<xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+				<enderDest>
+					<xLgr>RUA DO CENTRO</xLgr>
+					<nro>897</nro>
+					<xBairro>CENTRAL</xBairro>
+					<cMun>4314902</cMun>
+					<xMun>Porto Alegre</xMun>
+					<UF>RS</UF>
+					<CEP>87500000</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>445555555</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+			</dest>
+			<autXML>
+				<CNPJ>76063758000130</CNPJ>
+			</autXML>
+			<det nItem="1">
+				<prod>
+					<cProd>0999</cProd>
+					<cEAN/>
+					<xProd>MELAO</xProd>
+					<NCM>11081200</NCM>
+					<CEST>0123456</CEST>
+					<CFOP>6102</CFOP>
+					<uCom>CX</uCom>
+					<qCom>1</qCom>
+					<vUnCom>0.0100</vUnCom>
+					<vProd>0.01</vProd>
+					<cEANTrib/>
+					<uTrib>CX</uTrib>
+					<qTrib>1</qTrib>
+					<vUnTrib>0.0100</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<ICMS>
+						<ICMS00>
+							<orig>0</orig>
+							<CST>00</CST>
+							<modBC>0</modBC>
+							<vBC>0.01</vBC>
+							<pICMS>17.00</pICMS>
+							<vICMS>0.01</vICMS>
+						</ICMS00>
+					</ICMS>
+					<PIS>
+						<PISAliq>
+							<CST>01</CST>
+							<vBC>0.01</vBC>
+							<pPIS>1.65</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISAliq>
+					</PIS>
+					<COFINS>
+						<COFINSAliq>
+							<CST>01</CST>
+							<vBC>0.01</vBC>
+							<pCOFINS>7.60</pCOFINS>
+							<vCOFINS>0.01</vCOFINS>
+						</COFINSAliq>
+					</COFINS>
+					<ICMSUFDest>
+						<vBCUFDest>100.00</vBCUFDest>
+						<pFCPUFDest>0.00</pFCPUFDest>
+						<pICMSUFDest>17.00</pICMSUFDest>
+						<pICMSInter>12.00</pICMSInter>
+						<pICMSInterPart>40.00</pICMSInterPart>
+						<vFCPUFDest>0.00</vFCPUFDest>
+						<vICMSUFDest>0.20</vICMSUFDest>
+						<vICMSUFRemet>3.00</vICMSUFRemet>
+					</ICMSUFDest>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.01</vBC>
+					<vICMS>0.01</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vFCPUFDest>0.40</vFCPUFDest>
+					<vICMSUFDest>0.20</vICMSUFDest>
+					<vICMSUFRemet>0.00</vICMSUFRemet>
+					<vBCST>0.00</vBCST>
+					<vST>0.30</vST>
+					<vProd>0.01</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.01</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>0.01</vNF>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>0</modFrete>
+			</transp>
+			<cobr>
+				<fat>
+					<nFat>2000</nFat>
+					<vOrig>1000.00</vOrig>
+					<vDesc>100.00</vDesc>
+					<vLiq>900.00</vLiq>
+				</fat>
+			</cobr>
+			<infAdic>
+				<infAdFisco>FggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggF</infAdFisco>
+				<infCpl>BkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkB</infCpl>
+				<obsCont xCampo="xxxxxxxx">
+					<xTexto>tttttttttttttttttttttttttttttttttttttttttttttttt</xTexto>
+				</obsCont>
+			</infAdic>
+		</infNFe>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#NFe41160208187168000160557005135859701000000018">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>pf9GbIhGldu3cJNHbrUMYFl1hRY=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>l1LDWJLTPZhJ5fZlek5usluwZNOt+aj1hUCkKGCj0Q9BDCpzK2hrNH2DVBV9BEKRzh6luTkCKIi74JXZfmd/hfeJXZf+NPJV5SPY1rGAfP4bWCZUUpu3Ub9kzXR25mtZVv3LZ0IVvrK/0IeA6DmvPYs2iPyEbQIX6nFBtlM9SpN+BYShTo5cgrJmkE2wmqNc25Ass1dWHkUUfKgnKiDQSzh6HkqOKubtb9igr/39yozrLS1OfaQ4+AvczX53lAjleHIJEYmVUOukJR7/oG1sCyDQMBR3UAHLiUgp24LII4COItxhbGTmOE9WOEngSf5EkAYqum8k/Nn4Y/5D++NL6Q==</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</NFe>
+	<protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+		<infProt>
+			<tpAmb>2</tpAmb>
+			<verAplic>PR-v3_5_1</verAplic>
+			<chNFe>41160208187168000160557005135859701000000018</chNFe>
+			<dhRecbto>2016-02-02T14:43:05-02:00</dhRecbto>
+			<nProt>141160000079119</nProt>
+			<digVal>pf9GbIhGldu3cJNHbrUMYFl1hRY=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>
