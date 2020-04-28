@@ -1,0 +1,7 @@
+[17/04/2020 13:06:00:144] 14276 - EspdGnreConfigINIException : Arquivo D:\Projetos\GNRe\demonstracoes\delphi\Delphi7\gnreConfig.ini não foi encontrado
+[17/04/2020 13:09:21:986] 3908 - EspdGnreConfigINIException : Arquivo D:\Projetos\GNRe\demonstracoes\delphi\Delphi7\gnreConfig.ini não foi encontrado
+[17/04/2020 13:10:46:242] 12416 - EspdGnreCheckParamsException : XML Destinatário inválido
+[17/04/2020 13:23:14:115] 11220 - EspdGnreCheckParamsException : XML Destinatário inválido
+[27/04/2020 14:47:33:036] 13248 - EspdGnreCheckParamsException : XML Destinatário inválido
+[27/04/2020 15:37:12:411] 13720 - EspdGnreReportException : could not load xml Falha de validação: documento não contém exatamente um nó raiz.
+ []
