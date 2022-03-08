@@ -1,3 +1,7 @@
+## [6.1.36.5175]
+**Novidades**
+ - DCIT-1059 - Implementado envio de e-mail com SBB
+
 ## [6.1.36.5172]
 **Novidades**
  - DCIT-932 - Alterações para permitir o uso de lote de xmls nos métodos ImprimirGnre, VisualizarGnre, ExportarGnre, 
