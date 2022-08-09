@@ -1,6 +1,10 @@
 ﻿## [6.1.36.5193]
 
-* Corre&ccedil;&otilde;es e melhorias diversos.
+**Novidades**
+* DSP4G-277 - Alteração do Codigo das receita para o webservice de AL para 90 conforme alteração no Portal da GNRE do estado
+* DSP4G-260 - Migrando os arquivos de templates para implementação "hardcoded".
+* DSP4G-143 - Adicionado no menu do Windows a opção de desinstalação do pacote de dependências.
+* DSP4G-27  - Adicionado método TestarEmailConfig para validar as configurações de email, para mais informações acesse: https://atendimento.tecnospeed.com.br/hc/pt-br/articles/7861404358295
 
 ## [6.1.36.5192]
 
