@@ -1,4 +1,8 @@
-﻿## [6.1.36.5193]
+﻿## [6.1.36.5195]
+
+* Corre&ccedil;&otilde;es e melhorias diversos.
+
+## [6.1.36.5193]
 
 **Novidades**
 * DSP4G-277 - Alteração do Codigo das receita para o webservice de AL para 90 conforme alteração no Portal da GNRE do estado
@@ -25,6 +29,7 @@
              OBS 1: O lote deverá conter xmls da mesma versão (vm100 ou vm200) e tipo (Nacional, ES ou RJ).
              OBS 2: Retornaremos erro caso o lote de xmls esteja fora do padrão indicado na OBS 1.
  - DCIT-953 - Tratamento de retorno de erro faultstring no envio para ES.
+
 
 
 
