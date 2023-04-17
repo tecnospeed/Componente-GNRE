@@ -1,7 +1,9 @@
-﻿## [6.1.36.5202]
+﻿﻿## [6.1.36.5204]
+**Correções**
 
-**Plugin GNRe**
-
+* DSML-575 - Ajustes dos códigos de documento e receita do ini de homologação
+ 
+ ## [6.1.36.5202]
 **Correções**
 
 * [DSML-487 ](https://tecnospeed.atlassian.net/browse/DSML-487)Dependências - Nome do produto após instalação
