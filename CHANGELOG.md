@@ -1,4 +1,14 @@
-﻿## [6.1.37.5208]
+﻿## [7.1.37.5212]
+
+**Correções**
+
+**Novidades**
+
+**DSML-860** - Adicionado método [EnviarGuiaSemXmlDestinatario ](https://atendimento.tecnospeed.com.br/hc/pt-br/articles/17560744420375/preview/eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1NjA3NDQ0MjAzNzUsInJldmlzaW9uX2lkIjoiMDFIQU1BMEFDTTgwQkdDQkhGRlZFRktGQ0giLCJleHAiOjE2OTUwNDk3ODN9.fnAH54uIfSsQTYJSSlEap8i73AwIUQyGXz2QC0il8UU) para gerar uma guia sem a necessidade de informar um XML Destinatário 
+
+**DSML-551** - Corrigido a rejeição do campo extra apenas no ambiente de homologação
+
+## [6.1.37.5208]
 
 **Correções**
 
@@ -71,6 +81,7 @@
              OBS 1: O lote deverá conter xmls da mesma versão (vm100 ou vm200) e tipo (Nacional, ES ou RJ).
              OBS 2: Retornaremos erro caso o lote de xmls esteja fora do padrão indicado na OBS 1.
  - DCIT-953 - Tratamento de retorno de erro faultstring no envio para ES.
+
 
 
 
