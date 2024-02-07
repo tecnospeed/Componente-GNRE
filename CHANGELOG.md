@@ -1,4 +1,17 @@
-﻿## [7.1.37.5212]
+﻿## [7.1.38.5218]
+
+**Novidade**
+
+DSP4G-775 - integração por arquivo no formato JSON pelo novo metodo [ConverterJonParaTx2](https://tecnospeed.zendesk.com/hc/pt-br/articles/20949457527831)
+
+
+**Correçoes**
+
+**DSML-1007** - Correção para inclusão de campos extras ao enviar uma Guia Sem XML Destinatário e novo parâmetro para impressão, visualização e exportação de GNRe.
+
+**DSML-1064** - Correção para inclusão dos campos de Contribuinte Destinatário do TX2 ao enviar uma Guia sem XML Destinatário.
+
+## [7.1.37.5212]
 
 **Correções**
 
@@ -81,6 +94,7 @@
              OBS 1: O lote deverá conter xmls da mesma versão (vm100 ou vm200) e tipo (Nacional, ES ou RJ).
              OBS 2: Retornaremos erro caso o lote de xmls esteja fora do padrão indicado na OBS 1.
  - DCIT-953 - Tratamento de retorno de erro faultstring no envio para ES.
+
 
 
 
