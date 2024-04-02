@@ -1,4 +1,8 @@
-﻿## [7.1.38.5218]
+﻿## [7.1.39.5221]
+
+* Corre&ccedil;&otilde;es e melhorias diversos.
+
+## [7.1.38.5218]
 
 **Novidade**
 
@@ -94,6 +98,7 @@ DSP4G-775 - integração por arquivo no formato JSON pelo novo metodo [Converter
              OBS 1: O lote deverá conter xmls da mesma versão (vm100 ou vm200) e tipo (Nacional, ES ou RJ).
              OBS 2: Retornaremos erro caso o lote de xmls esteja fora do padrão indicado na OBS 1.
  - DCIT-953 - Tratamento de retorno de erro faultstring no envio para ES.
+
 
 
 
