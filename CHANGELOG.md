@@ -1,6 +1,11 @@
 ﻿## [7.1.39.5221]
 
-* Corre&ccedil;&otilde;es e melhorias diversos.
+**Novidade**
+
+- DSML-1111 - Atualizado MOC para versão 2.10.
+
+- DSML-1017 - Compatibilizado executavel com o Delphi 12 Athenas.
+
 
 ## [7.1.38.5218]
 
