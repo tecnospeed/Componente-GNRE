@@ -1,4 +1,10 @@
-﻿## [7.1.39.5224]
+﻿## [7.1.39.5226]
+
+**Correções**
+
+* DSML-1385 - Ajuste no método de impressão/exportação onde não estava aceitando o parâmetro da aChave.
+
+## [7.1.39.5224]
 
 **Novidade**
 
@@ -109,6 +115,7 @@ DSP4G-775 - integração por arquivo no formato JSON pelo novo metodo [Converter
              OBS 1: O lote deverá conter xmls da mesma versão (vm100 ou vm200) e tipo (Nacional, ES ou RJ).
              OBS 2: Retornaremos erro caso o lote de xmls esteja fora do padrão indicado na OBS 1.
  - DCIT-953 - Tratamento de retorno de erro faultstring no envio para ES.
+
 
 
 
