@@ -1,4 +1,12 @@
-﻿## [7.1.39.5226]
+﻿## [7.1.40.53]
+
+**Correções**
+
+- [DSML-1403](https://tecnospeed.atlassian.net/browse/DSML-1403) - Correção dos códigos de Documento de Origem e Receitas Aceitas para as UFs: AC, AM, MT, PA.
+- [DSML-1781](https://tecnospeed.atlassian.net/browse/DSML-1781) - Corringindo a geração do XML ao informar o campo c01_UfFavorecida
+- [DSML-1601](https://tecnospeed.atlassian.net/browse/DSML-1601) - Disponibilizando os campos de ValorDeAtualizacaoMonetaria e ValorDeCredito no método ExtrairDadosRetorno para o Estado de ES
+
+## [7.1.39.5226]
 
 **Correções**
 
@@ -115,6 +123,7 @@ DSP4G-775 - integração por arquivo no formato JSON pelo novo metodo [Converter
              OBS 1: O lote deverá conter xmls da mesma versão (vm100 ou vm200) e tipo (Nacional, ES ou RJ).
              OBS 2: Retornaremos erro caso o lote de xmls esteja fora do padrão indicado na OBS 1.
  - DCIT-953 - Tratamento de retorno de erro faultstring no envio para ES.
+
 
 
 
