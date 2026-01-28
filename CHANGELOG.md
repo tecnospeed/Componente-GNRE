@@ -1,4 +1,11 @@
-﻿## [7.1.40.53]
+﻿## [7.1.40.57]
+
+**Correções**
+
+* DSML-1903 - Corrigindo códigos do tipo do documento para o estado de BA.
+* DSML-2025 - correção para quando informado campo extras no tx2 complementar e a UF também adiciona automaticamente o mesmo valor, não duplicar
+
+## [7.1.40.53]
 
 **Correções**
 
@@ -123,6 +130,7 @@ DSP4G-775 - integração por arquivo no formato JSON pelo novo metodo [Converter
              OBS 1: O lote deverá conter xmls da mesma versão (vm100 ou vm200) e tipo (Nacional, ES ou RJ).
              OBS 2: Retornaremos erro caso o lote de xmls esteja fora do padrão indicado na OBS 1.
  - DCIT-953 - Tratamento de retorno de erro faultstring no envio para ES.
+
 
 
 
